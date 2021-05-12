@@ -1,13 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
-<!-- 
+
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>mslearn_tailspin_spacegame_web</RootNamespace>
-  </PropertyGroup> -->
-
-  <ItemGroup>
-    <FrameworkReference Include="Microsoft.AspNetCore.App" />
-  </ItemGroup>
+  </PropertyGroup>
 
 </Project>
